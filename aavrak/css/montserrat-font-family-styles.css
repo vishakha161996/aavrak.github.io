@@ -1,0 +1,33 @@
+.thin{font-weight:100;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.extralight{font-weight:200;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.light{font-weight:300;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.regular{font-weight:400;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.medium{font-weight:500;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.semibold{font-weight:600;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.bold{font-weight:700;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.extrabold{font-weight:800;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.black{font-weight:900;font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;}
+.thin-alternates{font-weight:100;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.extralight-alternates{font-weight:200;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.light-alternates{font-weight:300;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.regular-alternates{font-weight:400;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.medium-alternates{font-weight:500;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.semibold-alternates{font-weight:600;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.bold-alternates{font-weight:700;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.extrabold-alternates{font-weight:800;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.black-alternates{font-weight:900;font-family:"Montserrat Alternates", "Open Sans", Helvetica, Arial, sans-serif;}
+.regular-subrayada{font-weight:400;font-family:"Montserrat Subrayada", "Open Sans", Helvetica, Arial, sans-serif;}
+.bold-subrayada{font-weight:700;font-family:"Montserrat Subrayada", "Open Sans", Helvetica, Arial, sans-serif;}
+.thin-arabic{font-weight:100;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.extralight-arabic{font-weight:200;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.light-arabic{font-weight:300;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.regular-arabic{font-weight:400;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.medium-arabic{font-weight:500;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.semibold-arabic{font-weight:600;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.bold-arabic{font-weight:700;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.extrabold-arabic{font-weight:800;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.black-arabic{font-weight:900;font-family:"Montserrat-Arabic", "Geeza Pro", "Noto Kufi Arabic", "Arial Unicode MS", Helvetica, Arial, sans-serif;}
+.montserrat-fontfeatures-style-1{moz-font-feature-settings:"onum" 1, "salt" 1;-ms-font-feature-settings:"onum" 1, "salt" 1;-o-font-feature-settings:"onum" 1, "salt" 1;-webkit-font-feature-settings:"onum" 1, "salt" 1;font-feature-settings:"onum" 1, "salt" 1;}
+.montserrat-fontfeatures-style-2{-moz-font-feature-settings:"tnum" 1;-ms-font-feature-settings:"tnum" 1;-o-font-feature-settings:"tnum" 1;-webkit-font-feature-settings:"tnum" 1;font-feature-settings:"tnum" 1;}
+.montserrat-fontfeatures-style-3{-moz-font-feature-settings:"onum" 1;-ms-font-feature-settings:"onum" 1;-o-font-feature-settings:"onum" 1;-webkit-font-feature-settings:"onum" 1;font-feature-settings:"onum" 1;}
+.montserrat-fontfeatures-style-4{-moz-font-feature-settings:"onum" 1, "tnum" 1;-ms-font-feature-settings:"onum" 1, "tnum" 1;-o-font-feature-settings:"onum" 1, "tnum" 1;-webkit-font-feature-settings:"onum" 1, "tnum" 1;font-feature-settings:"onum" 1, "tnum" 1;}
